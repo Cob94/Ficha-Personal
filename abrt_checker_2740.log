@@ -1,0 +1,5 @@
+Uncaught java.lang.Error exception in thread "main" in a method ficha.main() with signature ([Ljava/lang/String;)V
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+	The method Print(String) is undefined for the type ficha
+
+	at ficha.main(ficha.java:7) [file:/home/liveuser/Work/FichaPersonal/bin/ficha.class]
